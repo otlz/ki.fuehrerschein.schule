@@ -5,9 +5,13 @@
 <h3 align="center">Selbstlernkurs für Schülerinnen und Schüler, um Künstliche Intelligenz zu verstehen, reflektieren und anzuwenden.</h3>
 
 <p align="center">
-  <a href="https://demo.ki.fuehrerschein.schule">
-    <img src="https://img.shields.io/badge/Demo-ki.fuehrerschein.schule-blue?style=for-the-badge" alt="Live Demo">
-  </a>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
 </p>
 
 ---
@@ -55,16 +59,6 @@ Eine interaktive Lektion mit didaktisch aufbereiteten Inhalten, Schritt-für-Sch
 - **Kostenlos** — Kein Login, keine Paywall, kein Tracking
 - **Interaktive Quizze** — Multiple Choice, Drag-and-Drop, KI-gestützte Freitextbewertung
 - **Responsiv** — Optimiert für Desktop, Tablet und Smartphone
-
-## Tech Stack
-
-| Bereich | Technologie |
-|---|---|
-| Framework | Next.js, React, TypeScript |
-| Styling | Tailwind CSS, shadcn/ui |
-| Datenbank | SQLite |
-| Zertifikate | @react-pdf/renderer, HMAC-Signierung, QR-Code |
-| Hosting | Docker |
 
 ## Kooperationspartner
 

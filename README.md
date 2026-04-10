@@ -63,8 +63,6 @@ Eine interaktive Lektion mit didaktisch aufbereiteten Inhalten, Schritt-für-Sch
 ## Kooperationspartner
 
 - [Karl Kübel Schule Bensheim](https://karlkuebelschule.de)
-- Staatliches Schulamt für den Landkreis Bergstraße und den Odenwaldkreis
-- Medienzentrum Heppenheim
 
 ## Links
 
